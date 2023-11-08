@@ -8,7 +8,7 @@ I'm Juan Perez, a software developer who programs in his spare time.
 - 🫖 Interested in Computer Graphics.
 
 ❤️ Things I'm Obsessed With Right Now ❤️
-- 👨‍🍳 Cooking: [Green Tartar Sauce](https://www.mylilikoikitchen.com/2013/09/21/green-tartar-sauce/)
+- 👨‍🍳 Cooking: Green Tartar Sauce
 - 📚 Reading: The Unbearable Lightness of Being
 - 🕹️ Games: Limbus Company
 
