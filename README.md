@@ -11,7 +11,7 @@ I'm Juan Perez, a software developer who programs in his spare time.
 ❤️ Things I'm Obsessed With Right Now ❤️
 - 👨‍🍳 Cooking: Green Tartar Sauce
 - 📚 Reading: The Unbearable Lightness of Being
-- 🕹️ Games: Limbus Company
+- 🕹️ Gaming: Limbus Company
 
 📫 You can find me on:
 - 💼 LinkedIn: [Juan Perez](https://www.linkedin.com/in/juan-p-perez/)
