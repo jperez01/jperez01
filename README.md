@@ -10,7 +10,7 @@ I'm Juan Perez, a software developer who programs in his spare time.
 
 ❤️ Things I'm Obsessed With Right Now ❤️
 - 👨‍🍳 Cooking: Green Tartar Sauce
-- 📚 Reading: The Unbearable Lightness of Being
+- 📚 Reading: The Prime of Miss Jean Brodie
 - 🕹️ Gaming: Limbus Company
 
 📫 You can find me on:
