@@ -3,7 +3,7 @@
 I'm Juan Perez, a software developer who programs in his spare time.
 
 🌟 About Me 🌟
-- 🇨🇴 Born in Colombia. Moved to the US in 2008.
+- 🫘 Born in Colombia. Moved to the US in 2008.
 - 🐝 Did CS undergrad at Georgia Tech.
 - 💻 Currently a Backend Software Engineer.
 - 🫖 Interested in Computer Graphics.
